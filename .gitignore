@@ -1,0 +1,12 @@
+node_modules
+
+# Buidler files
+cache
+artifacts
+
+# Coverage
+coverage
+coverage.json
+
+# Local settings
+config.js
